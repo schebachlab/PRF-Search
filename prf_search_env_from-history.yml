@@ -1,0 +1,21 @@
+name: prf_search_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8
+  - ipython
+  - matplotlib
+  - numpy
+  - openpyxl
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - xlrd
+  - viennarna
+  - biopython
+  - blast
+prefix: /home/cpkuntz/.conda/envs/prf_search_env
